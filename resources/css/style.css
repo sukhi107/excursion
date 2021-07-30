@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.download {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.grey {
+    color: grey;
+    font-size: 21px;
+}
+
+#excursion {
+    text-align: right;
+    color: grey;
+}
